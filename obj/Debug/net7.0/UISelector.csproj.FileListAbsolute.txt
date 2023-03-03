@@ -1,0 +1,15 @@
+D:\web\UISelector\bin\Debug\net7.0\UISelector.exe
+D:\web\UISelector\bin\Debug\net7.0\UISelector.deps.json
+D:\web\UISelector\bin\Debug\net7.0\UISelector.runtimeconfig.json
+D:\web\UISelector\bin\Debug\net7.0\UISelector.dll
+D:\web\UISelector\bin\Debug\net7.0\UISelector.pdb
+D:\web\UISelector\obj\Debug\net7.0\UISelector.csproj.AssemblyReference.cache
+D:\web\UISelector\obj\Debug\net7.0\UISelector.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\UISelector\obj\Debug\net7.0\UISelector.AssemblyInfoInputs.cache
+D:\web\UISelector\obj\Debug\net7.0\UISelector.AssemblyInfo.cs
+D:\web\UISelector\obj\Debug\net7.0\UISelector.csproj.CoreCompileInputs.cache
+D:\web\UISelector\obj\Debug\net7.0\UISelector.dll
+D:\web\UISelector\obj\Debug\net7.0\refint\UISelector.dll
+D:\web\UISelector\obj\Debug\net7.0\UISelector.pdb
+D:\web\UISelector\obj\Debug\net7.0\UISelector.genruntimeconfig.cache
+D:\web\UISelector\obj\Debug\net7.0\ref\UISelector.dll

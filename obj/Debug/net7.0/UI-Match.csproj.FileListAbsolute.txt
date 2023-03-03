@@ -1,0 +1,15 @@
+D:\web\UISelector\bin\Debug\net7.0\UI-Match.exe
+D:\web\UISelector\bin\Debug\net7.0\UI-Match.deps.json
+D:\web\UISelector\bin\Debug\net7.0\UI-Match.runtimeconfig.json
+D:\web\UISelector\bin\Debug\net7.0\UI-Match.dll
+D:\web\UISelector\bin\Debug\net7.0\UI-Match.pdb
+D:\web\UISelector\obj\Debug\net7.0\UI-Match.csproj.AssemblyReference.cache
+D:\web\UISelector\obj\Debug\net7.0\UI-Match.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\UISelector\obj\Debug\net7.0\UI-Match.AssemblyInfoInputs.cache
+D:\web\UISelector\obj\Debug\net7.0\UI-Match.AssemblyInfo.cs
+D:\web\UISelector\obj\Debug\net7.0\UI-Match.csproj.CoreCompileInputs.cache
+D:\web\UISelector\obj\Debug\net7.0\UI-Match.dll
+D:\web\UISelector\obj\Debug\net7.0\refint\UI-Match.dll
+D:\web\UISelector\obj\Debug\net7.0\UI-Match.pdb
+D:\web\UISelector\obj\Debug\net7.0\UI-Match.genruntimeconfig.cache
+D:\web\UISelector\obj\Debug\net7.0\ref\UI-Match.dll
