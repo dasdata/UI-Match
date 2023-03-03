@@ -23,6 +23,20 @@ The UI-Match (or "Interface Matchmaker") is a console application that helps use
 ![alt text](ui-selector-3res.gif)
 
 
+## Criterias 
+
+| Interface Type            | Accessibility | Learnability | Customizability | Efficiency | Portability | Interactivity | Hardware Requirement | Software Requirement | Overall Score | Primary Uses                                                    |
+|---------------------------|---------------|--------------|-----------------|------------|-------------|---------------|----------------------|-----------------------|---------------|-----------------------------------------------------------------|
+| Web Interface              | High          | High         | Medium          | High       | High        | High          | High                 | Medium                | 8.5 (High-Medium) | E-commerce websites, Social media platforms, Online collaboration tools, Web-based applications and services |
+| Augmented Reality Interface| High          | Medium       | Medium          | Medium     | High        | High          | Medium               | High                  | 7.5 (High-Low)  | Education and training simulations, Product visualization and marketing, Navigation and location-based applications, Gaming and entertainment |
+| Graphical User Interface  | High          | Medium       | Medium          | High       | High        | High          | Medium               | Medium                | 8.5 (High-Medium) | Desktop and mobile applications, Video and photo editing software, Gaming and entertainment software, Operating systems and system tools |
+| Mobile Interface           | Medium        | High         | Medium          | Medium     | High        | High          | Medium               | Medium                | 8.0 (Medium-Medium) | Mobile apps for social media and communication, Navigation and maps, Mobile gaming and entertainment, Health and fitness apps |
+| Command-line Interface     | High          | Low          | High            | Low        | Low         | High          | Low                  | High                  | 7.0 (Low-High)  | Server management and automation, Programming and development tasks, Networking and system administration tasks, Data analysis and processing |
+| Virtual Reality Interface  | High          | Low          | Low             | Medium     | High        | High          | High                 | High                  | 6.5 (Low-Low)   | Virtual reality gaming and entertainment, Training and simulation programs for military and aviation, Medical and therapy applications, Architecture and design visualization |
+| Gesture-Based Interface    | Medium        | Medium       | Medium          | Low        | High        | Medium        | Low                  | High                  | 6.5 (Low-Low)   | Public interactive displays and exhibits, Kiosks and information centers, Gaming and entertainment, Rehabilitation and therapy applications |
+| Speech Interface           | Medium        | Medium       | Medium          | Low        | Low         | Medium        | Low                  | High                  | 6.5 (Low-Medium)| Hands-free operation of devices in cars and other vehicles, Home automation and smart home control, |
+
+
 ## Installation
 
 To run the application, simply download the source code and compile it using a C# compiler. The application has been tested on Windows and Linux platforms.
