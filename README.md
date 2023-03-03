@@ -20,6 +20,9 @@ The UI-Match (or "Interface Matchmaker") is a console application that helps use
 | Gesture-Based Interface        | A user interface that allows users to interact with a computer through physical gestures, such as waving a hand or pointing a finger |
 
 
+![alt text](ui-selector-3res.gif)
+
+
 ## Installation
 
 To run the application, simply download the source code and compile it using a C# compiler. The application has been tested on Windows and Linux platforms.
