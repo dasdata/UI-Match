@@ -46,7 +46,11 @@ To use the application, run the executable file and follow the prompts. The appl
 
 ## Contributing
 
-If you find a bug or would like to suggest a new feature, please submit an issue on the GitHub repository.
+If you find a bug or would like to suggest a new feature, please submit an issue on the GitHub repository. 
+
+## Disclamer
+
+This tool was built with OpenAI's amazing ChatGPT so please your common sense before jump into conclusions. 
 
 ## License
 
