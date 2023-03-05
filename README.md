@@ -36,6 +36,22 @@ The UI-Match (or "Interface Matchmaker") is a console application that helps use
 | Speech Interface           | Medium    | Medium        | Medium | Low            | Low        | Medium        | Low         | High     | Medium     | 6.5 (Low-Medium) | Hands-free and accessible for people with disabilities, Used in noisy or hands-busy environments, Used for tasks like dictation and voice commands | Hands-free operation of devices in cars and other vehicles, Home automation and smart home control, |
 
 
+
+## Methods 
+
+Criteria|Explanation|Scoring Method|Measurement Methods|Methods Details
+Usability|How easy it is for users to interact with the interface and perform tasks. A highly usable interface is intuitive and requires minimal training for users to understand and use effectively.|High, Medium, Low|Usability testing, surveys, user feedback|Usability testing can be conducted to measure how easy it is for users to interact with the interface and perform tasks. This can involve observing users as they use the interface to complete specific tasks and recording any issues or difficulties they encounter.
+Accessibility|How easily people with disabilities can use the interface. An accessible interface is designed to accommodate a range of physical and cognitive disabilities, such as visual impairments, hearing impairments, or mobility impairments.|High, Medium, Low|Accessibility testing, surveys, user feedback|Accessibility testing can be conducted to measure how easily people with disabilities can use the interface. This can involve using assistive technologies, such as screen readers or voice recognition software, to test the interface with a range of disabilities.
+Speed|How quickly the interface can perform tasks and respond to user inputs. A fast interface is important for improving productivity and user satisfaction.|High, Medium, Low|Performance testing, benchmarking|Performance testing can be conducted to measure how quickly the interface can perform tasks and respond to user inputs. This can involve measuring the time it takes for the interface to load, process data, or respond to user actions.
+Customizability|The extent to which users can personalize the interface to their needs and preferences. A highly customizable interface allows users to adjust features and settings to suit their individual needs and work style.|High, Medium, Low|Surveys, user feedback|Surveys or user feedback can be used to measure how much users are able to customize the interface to their needs and preferences. This can involve asking users to rate the extent to which they are able to adjust features or settings in the interface.
+Aesthetics|The visual appeal of the interface. An aesthetically pleasing interface can help to create a positive user experience and enhance user satisfaction.|High, Medium, Low|Surveys, user feedback|User feedback or surveys can be used to measure the visual appeal of the interface. This can involve asking users to rate the interface's design or visual elements.
+Functionality|The range of tasks and activities that the interface can perform. A highly functional interface can accommodate a range of user needs and tasks.|High, Medium, Low|Testing, reviews, user feedback|Testing or reviews can be conducted to measure the range of tasks and activities that the interface can perform. This can involve evaluating the interface's features and capabilities against user needs and requirements.
+Consistency|How consistently the interface performs tasks and displays information. A consistent interface helps users to predict how the interface will behave and can improve usability.|High, Medium, Low|Testing, user feedback|Testing or user feedback can be used to measure how consistently the interface performs tasks and displays information. This can involve evaluating the interface's behavior and responses across different tasks or scenarios.
+Feedback|The extent to which the interface provides feedback to users on their actions and interactions. Feedback can help users to understand how the interface works and can help to guide their actions.|High, Medium, Low|Surveys, user feedback|User feedback or surveys can be used to measure the extent to which the interface provides feedback to users on their actions and interactions. This can involve asking users to rate the interface's feedback mechanisms, such as error messages or notifications.
+Automation|The extent to which the interface can automate tasks and processes, reducing the need for user input. An interface with high automation can improve efficiency and reduce user workload.|High, Medium, Low|Surveys
+
+
+
 ## Installation
 
 To run the application, simply download the source code and compile it using a C# compiler. The application has been tested on Windows and Linux platforms.
@@ -50,7 +66,7 @@ If you find a bug or would like to suggest a new feature, please submit an issue
 
 ## Disclamer
 
-This tool was built with OpenAI's amazing ChatGPT, so please use your common sense before jump into conclusions. 
+This tool was built with OpenAI's amazing ChatGPT, so please use your commonsense or other methods before jump into conclusions. 
 
 ## License
 
