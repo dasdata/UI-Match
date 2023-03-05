@@ -50,7 +50,7 @@ If you find a bug or would like to suggest a new feature, please submit an issue
 
 ## Disclamer
 
-This tool was built with OpenAI's amazing ChatGPT so please your common sense before jump into conclusions. 
+This tool was built with OpenAI's amazing ChatGPT, so please use your common sense before jump into conclusions. 
 
 ## License
 
